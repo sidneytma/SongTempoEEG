@@ -1,7 +1,7 @@
-# COGS138_RIDSlers
+# Estimating Song Tempo from EEG recordings
 
 Final project for COGS 138
-- FinalProject_RIDSlers
+- song_tempo_eeg.ipynb: main file
 - helpers.ipynb: helper functions
 - images: images and code for producing plots
 - pc1-T and pc1-H: data used for analysis
